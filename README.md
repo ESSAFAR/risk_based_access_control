@@ -3,7 +3,7 @@
 - Mohamed Anwar Es-Safar
 - Ibtissam Lahlou
 
-Risk-Based Access Control (RBAC) is a security approach that evaluates the risk level associated with a user's access request in real-time. Instead of assigning static permissions, this method adapts to dynamic scenarios by considering various factors such as user behavior, location, device type, and historical data. The goal is to prevent unauthorized access, mitigate identity threats, and enhance system security without compromising usability. This approach is already implemented by [IAM venderos](https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-policies).
+Risk-Based Access Control is a security approach that evaluates the risk level associated with a user's access request in real-time. Instead of assigning static permissions, this method adapts to dynamic scenarios by considering various factors such as user behavior, location, device type, and historical data. The goal is to prevent unauthorized access, mitigate identity threats, and enhance system security without compromising usability. This approach is already implemented by [IAM venderos](https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-policies).
 
 ## What Was Achieved in This Project
 This project focused on implementing machine learning techniques to detect identity-based threats, particularly account takeovers. The work involved analyzing a dataset of login attempts, which contained detailed information such as user device types, operating systems, browser details, geographical locations, and timestamps.
